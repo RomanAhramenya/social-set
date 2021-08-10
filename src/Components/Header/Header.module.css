@@ -1,0 +1,24 @@
+.header{
+    grid-area: h;
+    background: linear-gradient(260deg, #581183  , #581164 50%,#581183 );
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.logo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 0 rgb(0, 0, 0);
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.logoDown{
+    font-family: serif;
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+}

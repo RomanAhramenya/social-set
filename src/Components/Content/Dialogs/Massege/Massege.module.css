@@ -1,0 +1,13 @@
+.avatar{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:green;
+}
+.massege{
+    font-size: 18px;
+    color: white;
+}
+.allMassege{
+    margin-right: 20%;
+}

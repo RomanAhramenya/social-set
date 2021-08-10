@@ -1,0 +1,13 @@
+.App{
+    display: grid;
+    grid-template-columns: 1fr 85%;
+    grid-template-rows: 60px 100%;
+    grid-template-areas: 
+    'h h'
+    'n c'
+    ;
+    max-width: 1800px;
+}
+.appWraper{
+    grid-area: c;
+}
